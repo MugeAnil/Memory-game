@@ -1,0 +1,11 @@
+body {
+	background: #01143F url('img/bg.jpg') no-repeat;
+}
+#content {
+	margin: 400px auto 0px auto;
+	width: 900px;
+}
+#content div {
+	width: 150px;
+	float: left;
+}
